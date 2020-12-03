@@ -1,6 +1,7 @@
 Vehicle Loan Default Prediction
 Financial institutions incur significant losses due to the default of vehicle loans. This has led to the tightening up of vehicle loan underwriting and increased vehicle loan rejection rates. The need for a better credit risk scoring model is also raised by these institutions. This warrants a study to estimate the determinants of vehicle loan default.
-A Following Information regarding the loan and loanee are provided in the datasets:
+
+Following Information regarding the loan and loanee are provided in the datasets:
 
 Loanee Information (Demographic data like age, income, Identity proof etc.)
 Loan Information (Disbursal details, amount, EMI, loan to value ratio etc.)
